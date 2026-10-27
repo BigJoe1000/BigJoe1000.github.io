@@ -7,9 +7,9 @@ Joe's IT Portfolio and Engineering Lab
 Simulation of real-world corporate environment, engineered isolated virtual network test lab from scratch using Oracle VirtualBox. Mapped out secure departmental identity directory, automated employee provisioning via scripting, successfully executed emergency disaster recovery protocols.
 
 ### Technical Environment Topology
-**Hypervisor:** Oracle VM VirtualBox (Isolated Internal Network)
-**Domain Controller:** Windows Server 2022 (Static IP: 192.168.10.10)
-**Workstation Client:** Windows 11 Enterprise (Static IP: 192.168.10.20)
+* **Hypervisor:** Oracle VM VirtualBox (Isolated Internal Network)
+* **Domain Controller:** Windows Server 2022 (Static IP: 192.168.10.10)
+* **Workstation Client:** Windows 11 Enterprise (Static IP: 192.168.10.20)
 
 ##Lab Implementation Milestones
 
@@ -27,7 +27,5 @@ Simulation of a worst-case scenario involving a domain lockout. Utilized Directo
 
 ---
 ### Technical Certifications
-**Google IT Support Certification (Coursera) - COMPLETE**
-**Google Cybersecurity Certification (Coursera) - COMPLETE**
-
-feat: add initial portfolio profile and ad lab Writeup
+* **Google IT Support Certification (Coursera) - COMPLETE**
+* **Google Cybersecurity Certification (Coursera) - COMPLETE**
