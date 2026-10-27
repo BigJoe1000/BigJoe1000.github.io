@@ -11,7 +11,7 @@ Simulation of real-world corporate environment, engineered isolated virtual netw
 * **Domain Controller:** Windows Server 2022 (Static IP: 192.168.10.10)
 * **Workstation Client:** Windows 11 Enterprise (Static IP: 192.168.10.20)
 
-##Lab Implementation Milestones
+### Lab Implementation Milestones
 
 ### 1. Active Directory Identity Design (IAM)
 Built clean, logical Organizational Unit (OU) structure mirroring corporate layout (Corporate-Headquarters -> IT, HR, Finance). Bypassed generic default containers to ensure high-granularity administrative control.
