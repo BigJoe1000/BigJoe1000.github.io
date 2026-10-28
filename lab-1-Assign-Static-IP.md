@@ -32,5 +32,23 @@ Server Manager -> Manage -> Add Roles and Features -> Active Directory Domain Se
 
 ![Alt Text](images/5.png)
 
+# Promote Server to Domain Controller
+
+Assigned the server as the domain controller  
+Assigned root name "homelab.local"  
+Assigned a Directory Services Restore Mode (DSRM) password  
+
+# Resolve server domain name to its static IP for client computer
+
+Command "nslookup" on Client computer to make sure it resolves to the server IP
+
+![Alt Text](images/7.png)
+
+# Add Client to Domain
+
+Access Client System Properties  
+Select "domain" and assigned server domain name  
+
+![Alt Text](images/8.png)
 
 [← Back to Main Portfolio](README.md)
