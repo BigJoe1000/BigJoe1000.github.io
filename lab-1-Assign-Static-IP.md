@@ -1,6 +1,6 @@
 # Assigning Static IPs to Server and Client
 
-Accessed ethernet properties
+Accessed ethernet properties.
 Accessed IPv4 properties
 Assigned static IP address to server: 192.168.10.10
 Assigned subnet mask 255.255.255.0
