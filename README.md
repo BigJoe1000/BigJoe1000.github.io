@@ -16,6 +16,8 @@ Simulation of real-world corporate environment, engineered isolated virtual netw
 ### 1. Active Directory Identity Design (IAM)
 Built clean, logical Organizational Unit (OU) structure mirroring corporate layout (Corporate-Headquarters -> IT, HR, Finance). Bypassed generic default containers to ensure high-granularity administrative control.
 
+**[View Full Technical Deep-Dive & Verified Lab Screenshots here](lab-1-Assign-Static-IP.md)**
+
 ### 2. Share vs. NTFS Permissions Architecture
 Provisioned central network storage folder structures. Implemented strict access controls using custom Active Directory Security Groups ('SG-Finance-RW'), granting necessary data modification paths while hardening directories against unauthorized domain accounts.
 
