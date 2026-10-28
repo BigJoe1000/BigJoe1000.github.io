@@ -18,4 +18,7 @@ Add in "SG-Finance-RW"
 
 ![Alt Text](images/11c.png)
 
-For "CompanyShares" Folder, turn on sharing and allow everyone full control
+For "CompanyShares" Folder, turn on sharing and allow everyone full control  
+From the Client computer, the shared folder became accessible using file path "\\192.168.10.10\CompanyShares"
+
+![Alt Text](images/11d.png)
