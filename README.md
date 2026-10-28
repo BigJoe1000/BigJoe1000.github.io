@@ -21,6 +21,8 @@ Built clean, logical Organizational Unit (OU) structure mirroring corporate layo
 ### 2. Share vs. NTFS Permissions Architecture
 Provisioned central network storage folder structures. Implemented strict access controls using custom Active Directory Security Groups ('SG-Finance-RW'), granting necessary data modification paths while hardening directories against unauthorized domain accounts.
 
+**[View Full Technical Deep-Dive & Verified Lab Screenshots here](lab-1-Assign-Static-IP.md)**
+
 ### 3. Automation via Powershell scripting
 Scripting of a custom Powershell program that reads employee '.csv' matrices, converts strings into unique naming formats, and builds configured active accounts across respective OUs.
 
