@@ -8,4 +8,12 @@ Assigned a loopback DNS server address: 127.0.0.1 to tell the server to look at 
 
 ![Alt Text](images/1.png)
 
+# Assigning Static IP to Client and connecting to DNS server
+
+Process repeated for the Client Computer
+DNS Address Assignment: 192.168.10.10 to tell client to look to server for DNS lookup.
+
+![Alt Text](images/1.png)
+
+
 [← Back to Main Portfolio](README.md)
