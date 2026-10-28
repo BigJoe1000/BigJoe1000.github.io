@@ -15,5 +15,22 @@ DNS Address Assignment: 192.168.10.10 to tell client to look to server for DNS l
 
 ![Alt Text](images/2.png)
 
+To test connection, the firewall was disabled.  
+Risk was minimal because both computers are isolated on the same network
+
+![Alt Text](images/3.png)
+
+# Test Connection
+
+Connection was tested by pinging the server from the client computer using server IP address  
+
+![Alt Text](images/4.png)
+
+# Installing Active Directory Domain Service (AD DS) Role
+
+Server Manager -> Manage -> Add Roles and Features -> Active Directory Domain Services  
+
+![Alt Text](images/5.png)
+
 
 [← Back to Main Portfolio](README.md)
