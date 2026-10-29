@@ -51,4 +51,29 @@ Select "domain" and assigned server domain name
 
 ![Alt Text](images/8.png)
 
+# Create new Organizational Unit (OU) and assign new standard user account
+
+Access Active Directory Users and Computers  
+New -> Organizational Unit (OU)  
+Label "Corporate-Headquarters"  
+New -> Organizational Unit (OU)  
+Label "IT-Department", "HR-Department", "Finance-Department"  
+New -> User: "John Doe"   
+Assigned temporary password and selected "user must change password at next logon"  
+
+![Alt Text](images/9.png)
+
+# New Security Group in Active Directory
+
+Access Active Directory Users and Computers  
+In the Finance-Department OU  
+New -> Group  
+Group Name: "SG-Finance-RW"  
+
+![Alt Text](images/10a.png)
+
+Add Members: John Doe
+
+![Alt Text](images/10b.png)
+
 [← Back to Main Portfolio](README.md)
