@@ -1,5 +1,3 @@
-
-
 ## Feature Project: Active Directory Enterprise Engineering Lab
 *October 2026*
 
