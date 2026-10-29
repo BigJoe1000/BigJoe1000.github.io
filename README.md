@@ -1,3 +1,9 @@
+---
+layout: default
+title: Joe Downs IT Engineering Portfolio
+description: Hands-on labs focusing on Active Directory, Automation, and Systems Security.
+---
+
 ### Technical Certifications
 * **Google IT Support Certification (Coursera) - COMPLETE**
 * **Google Cybersecurity Certification (Coursera) - COMPLETE**
