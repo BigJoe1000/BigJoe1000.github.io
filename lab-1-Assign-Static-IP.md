@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Assigning Static IPs to Server and Client
 
 Accessed ethernet properties.  
