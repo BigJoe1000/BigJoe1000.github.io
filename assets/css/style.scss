@@ -18,3 +18,12 @@
     padding: 2rem 2.5rem !important;
   }
 }
+
+// Shrinks all images inside the main content area so they never overflow
+// and ensures they sit nicely centered
+.main-content img {
+  max-width: 60% !important;  // Caps the image at 60% of the text column width
+  height: auto !important;     // Keeps the aspect ratio perfect so it doesn't warp
+  display: block !important;
+  margin: 1.5rem auto !important; // Centers the image and adds space above/below
+}
