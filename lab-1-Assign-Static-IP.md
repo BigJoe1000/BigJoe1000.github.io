@@ -58,7 +58,7 @@ New -> Organizational Unit (OU)
 Label "Corporate-Headquarters"  
 New -> Organizational Unit (OU)  
 Label "IT-Department", "HR-Department", "Finance-Department"  
-New -> User: "John Doe"   
+New -> User: "John Doe" to the group: "IT-Department"
 Assigned temporary password and selected "user must change password at next logon"  
 
 ![Alt Text](images/9.png)
@@ -72,7 +72,7 @@ Group Name: "SG-Finance-RW"
 
 ![Alt Text](images/10a.png)
 
-Add Members: John Doe
+Add Members: John Doe to the Security Group "SG-Finance-RW" under the Member tab  
 
 ![Alt Text](images/10b.png)
 
