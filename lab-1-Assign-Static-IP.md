@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Joe Downs IT Support Portfolio"
 ---
 
 # Assigning Static IPs to Server and Client
