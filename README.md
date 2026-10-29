@@ -14,22 +14,22 @@ Simulation of real-world corporate environment, engineered isolated virtual netw
 ### Lab Implementation Milestones
 
 ### 1. Active Directory Identity Design (IAM)
-Built clean, logical Organizational Unit (OU) structure mirroring corporate layout (Corporate-Headquarters -> IT, HR, Finance). Bypassed generic default containers to ensure high-granularity administrative control.
+Built Organizational Unit (OU) structure simulating corporate layout (Corporate-Headquarters -> IT, HR, Finance). Customized administrative controls.
 
 **[View Full Technical Deep-Dive & Verified Lab Screenshots here](lab-1-Assign-Static-IP.md)**
 
 ### 2. Share vs. NTFS Permissions Architecture
-Provisioned central network storage folder structures. Implemented strict access controls using custom Active Directory Security Groups ('SG-Finance-RW'), granting necessary data modification paths while hardening directories against unauthorized domain accounts.
+Arranged central network storage folder structures. Implemented access controls using custom Active Directory Security Groups ('SG-Finance-RW'), granting necessary data modification paths while hardening directories against unauthorized domain accounts.
 
 **[View Full Technical Deep-Dive & Verified Lab Screenshots here](Network-File-Share.md)**
 
 ### 3. Automation via Powershell scripting
-Scripting of a custom Powershell program that reads employee '.csv' matrices, converts strings into unique naming formats, and builds configured active accounts across respective OUs.
+Scripting of a custom Powershell program that reads employee '.csv' matrices, converts strings into naming formats, and builds configured active accounts across respective OUs.
 
 **[View Full Technical Deep-Dive & Verified Lab Screenshots here](Powershell-Automation.md)**
 
 ### 4. Disaster Recovery & DSRM Override
-Simulation of a worst-case scenario involving a domain lockout. Utilized Directory Services Restore Mode (DSRM) safe-boot flags and command-line diagnostics to safely interface with offline Windows SAM registry, bypassing credential locks to securely reset global domain controller administrative profile.
+Simulation of a worst-case scenario involving a domain lockout. Used Directory Services Restore Mode (DSRM) safe-boot flags and command-line diagnostics to safely interface with offline Windows SAM registry, bypassing credential locks to reset global domain controller administrative profile.
 
 ---
 ### Technical Certifications
