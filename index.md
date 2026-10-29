@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""Joe Downs IT Support Portfolio""
+title: "Joe Downs IT Support Portfolio"
 ---
 
 ## Feature Project: Active Directory Enterprise Engineering Lab
