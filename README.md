@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Joe Downs IT Engineering Portfolio
+layout: default 
+title: Joe Downs IT Engineering Portfolio 
 ---
 
 ### Technical Certifications
