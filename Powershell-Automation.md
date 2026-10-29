@@ -9,3 +9,7 @@ Utilize the onboarding powershell code to automate and distribute data to corres
 ![Alt Text](images/13b.png)
 
 Confirm the data was created by accessing the domain OUs and finding the newly added employees inside their respective groups
+
+![Alt Text](images/13f.png)
+
+
