@@ -1,5 +1,10 @@
 Joe's IT Portfolio and Engineering Lab
 
+### Technical Certifications
+* **Google IT Support Certification (Coursera) - COMPLETE**
+* **Google Cybersecurity Certification (Coursera) - COMPLETE**
+
+---
 ## Feature Project: Active Directory Enterprise Engineering Lab
 *October 2026*
 
@@ -30,8 +35,3 @@ Scripting of a custom Powershell program that reads employee '.csv' matrices, co
 
 ### 4. Disaster Recovery & DSRM Override
 Simulation of a worst-case scenario involving a domain lockout. Used Directory Services Restore Mode (DSRM) safe-boot flags and command-line diagnostics to safely interface with offline Windows SAM registry, bypassing credential locks to reset global domain controller administrative profile.
-
----
-### Technical Certifications
-* **Google IT Support Certification (Coursera) - COMPLETE**
-* **Google Cybersecurity Certification (Coursera) - COMPLETE**
