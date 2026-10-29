@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "John Doe's IT Support Portfolio & Engineering Lab"
 ---
 
 ## Feature Project: Active Directory Enterprise Engineering Lab
