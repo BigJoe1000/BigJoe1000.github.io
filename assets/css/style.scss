@@ -1,0 +1,20 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Forces the header and main text content to span the full screen width
+@media screen and (min-width: 64rem) {
+  .main-content, .page-header {
+    max-width: 92% !important;     // Changes from 64rem to 92% of total screen width
+    padding: 2rem 4% !important;   // Shrinks left/right padding so text sits closer to screen edges
+    margin: 0 auto !important;     // Keeps the wide layout perfectly centered on the monitor
+  }
+}
+
+// Adjusts mid-sized screens (like laptops and tablets) to be wider too
+@media screen and (min-width: 42rem) and (max-width: 64rem) {
+  .main-content, .page-header {
+    max-width: 95% !important;
+    padding: 2rem 2.5rem !important;
+  }
+}
