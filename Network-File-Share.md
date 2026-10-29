@@ -23,4 +23,17 @@ From the Client computer, the shared folder became accessible using file path "\
 
 ![Alt Text](images/11d.png)
 
+# Assigning New Group Policy Object (GPO) for Shared Folder "Finance-Data"
+
+Accessed Group Policy Management in Server Manager  
+Created a new Group Policy within the Corporate-Headquarters OU  
+Inside the Group Policy: Accessed the Group Policy Management Editor -> Map Drives  
+Assigned the location of the shared folder, labeled as "Company Files" and mapped it to the F:/ Drive  
+
+![Alt Text](images/12a.png)
+
+Those allowed to access the "Finance-Data" folder can now access the folder from their PC directory under F:/
+
+![Alt Text](images/12b.png)
+
 [← Back to Main Portfolio](README.md)
