@@ -1,8 +1,3 @@
----
-layout: default
-title: "Joe Downs IT Engineering Portfolio"
----
-
 ### Technical Certifications
 * **Google IT Support Certification (Coursera) - COMPLETE**
 * **Google Cybersecurity Certification (Coursera) - COMPLETE**
