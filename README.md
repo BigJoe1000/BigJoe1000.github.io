@@ -26,6 +26,8 @@ Provisioned central network storage folder structures. Implemented strict access
 ### 3. Automation via Powershell scripting
 Scripting of a custom Powershell program that reads employee '.csv' matrices, converts strings into unique naming formats, and builds configured active accounts across respective OUs.
 
+**[View Full Technical Deep-Dive & Verified Lab Screenshots here](Powershell-Automation.md)**
+
 ### 4. Disaster Recovery & DSRM Override
 Simulation of a worst-case scenario involving a domain lockout. Utilized Directory Services Restore Mode (DSRM) safe-boot flags and command-line diagnostics to safely interface with offline Windows SAM registry, bypassing credential locks to securely reset global domain controller administrative profile.
 
