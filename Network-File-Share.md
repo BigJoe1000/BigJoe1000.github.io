@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Network File Share
 
 Created new Folder "CompanyShares" in C:/ drive  
