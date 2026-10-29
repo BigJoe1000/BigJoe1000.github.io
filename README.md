@@ -1,7 +1,6 @@
 ### Technical Certifications
 * **Google IT Support Certification (Coursera) - COMPLETE**
 * **Google Cybersecurity Certification (Coursera) - COMPLETE**
----
 
 ## Feature Project: Active Directory Enterprise Engineering Lab
 *October 2026*
