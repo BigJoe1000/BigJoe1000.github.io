@@ -76,4 +76,4 @@ Add Members: John Doe to the Security Group "SG-Finance-RW" under the Member tab
 
 ![Alt Text](images/10b.png)
 
-[← Back to Main Portfolio](README.md)
+[← Back to Main Portfolio](index.md)
